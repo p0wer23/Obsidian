@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity.md",
+                "file": "Learning System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Productivity"
+              "title": "Learning System"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity.md",
+                "file": "Learning System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Productivity"
+              "title": "Backlinks for Learning System"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity.md",
+                "file": "Learning System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Productivity"
+              "title": "Outgoing links from Learning System"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity.md",
+                "file": "Learning System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Productivity"
+              "title": "Outline of Learning System"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "88f05c85aa66a1af",
   "lastOpenFiles": [
-    "Productivity.md"
+    "Productivity.md",
+    "Learning System.md"
   ]
 }
