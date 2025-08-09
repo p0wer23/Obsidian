@@ -1,34 +1,34 @@
 {
   "main": {
-    "id": "c33467dbcd32ca26",
+    "id": "232b366c7e0bd92b",
     "type": "split",
     "children": [
       {
-        "id": "6fda392d4e23144e",
+        "id": "3513835e10788071",
         "type": "tabs",
         "children": [
           {
-            "id": "e5054ea11f27f869",
+            "id": "1d7a4ce7d425b015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Defense.md",
+                "file": "Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Defense"
+              "title": "Fundamentals"
             }
           }
         ]
       },
       {
-        "id": "0dac00cf90fcdde9",
+        "id": "acd290797b49e93c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb94905954cfe11f",
+            "id": "6bf0b64236243e20",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4a5c4006cae6aa0",
+    "id": "400a0499d3ddfd03",
     "type": "split",
     "children": [
       {
-        "id": "276dcbd4fbde46d6",
+        "id": "4dfc69ea17b354c7",
         "type": "tabs",
         "children": [
           {
-            "id": "f65c0eff8eb6b418",
+            "id": "cf23ae627c6df4f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "39fc79fe2b63fd24",
+            "id": "1e76342b4f381022",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "78ea41cdaa08f229",
+            "id": "811f71cf2d5b53f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "155d2114bcd6b06a",
+    "id": "f491af81975023a5",
     "type": "split",
     "children": [
       {
-        "id": "532dc5bcad54d3c9",
+        "id": "b60c9301e18b5d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "2283932ced51816b",
+            "id": "df635bd7416fa493",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Links"
+              "title": "Backlinks for Fundamentals"
             }
           },
           {
-            "id": "93c275f9c864bc97",
+            "id": "b0ef361fb8f2b154",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links.md",
+                "file": "Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Links"
+              "title": "Outgoing links from Fundamentals"
             }
           },
           {
-            "id": "1601eca1324d28a8",
+            "id": "5fd55471b8dbdd24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +153,18 @@
             }
           },
           {
-            "id": "b6c6d38dac44bd9c",
+            "id": "8a8b0de2caa266c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links.md",
+                "file": "Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Links"
+              "title": "Outline of Fundamentals"
             }
           }
         ]
@@ -184,16 +184,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb94905954cfe11f",
+  "active": "1d7a4ce7d425b015",
   "lastOpenFiles": [
-    "Security Defense.md",
-    "Security Fundamentals.md",
-    "AI security.md",
-    "Prompt Engineering.md",
-    "Data Readiness for Gen AI.md",
-    "AI Ops.md",
-    "Compliance.md",
-    "AI security Threats.md",
-    "Gen AI sec.md"
+    "Fundamentals.md"
   ]
 }
