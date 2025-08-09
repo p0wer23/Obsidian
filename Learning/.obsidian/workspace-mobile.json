@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dump.md",
-                "mode": "source",
+                "file": "Learning System.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dump"
+              "title": "Learning System"
             }
           }
         ],
@@ -163,6 +163,7 @@
   },
   "active": "bb07aa7c610ed3a6",
   "lastOpenFiles": [
+    "Habits.md",
     "Dump.md",
     "Dump",
     "Learning System.md",
