@@ -1,0 +1,16 @@
+- Train on/Integrate with internal Company Data:
+	- specific & personalised data
+	- High-quality
+- Security & Compliance:
+	- Amplify Security Posture (no security by obscurity)
+	- Principle of Least Privilege (RBAC)
+	- Compliance Regulation
+	- Don't use sensitive info to train data
+- Integration:
+	- Single application
+	- Inventory all data -> accurate, relevant & standardized
+	- Learn specific action on tools
+- Clean Old & Irrelevant Data:
+	- Compliance
+	- Cost, Performance & Accuracy 
+	- Process & Automation for this
