@@ -1,0 +1,69 @@
+*Cloud: delivery of computing services over the internet*
+
+- Characteristics of Cloud
+	- Core characteristics
+		- Usage
+			- On-demand self-service
+			- Rapid Elasticity
+			- Measured
+		- Shared
+			- Resource Pooling
+			- Broad Network Access
+	- Virtualization
+		- Hypervisor (VM)
+		- Containerising:
+			- Docker
+			- K8s
+	- Scalability and Elasticity in Cloud Computing
+	- Business Benefits of Cloud Computing
+	- Disaster Recovery and Backup in the Cloud
+
+- Core Components of Cloud
+	- Services Provided:
+		- Compute
+		- Storage
+		- Database
+		- Networking
+		- Security
+	
+	- Cloud Architecture
+		- Frotend
+			- Web servers
+			- Client devices
+			- User intefaces
+		- Backend
+			- Application
+			- Services
+			- Runtime Environment
+			- Storage Systems
+			- Infrastructure
+			- Management
+			- Security
+	- Cloud Security Principles and Architecture
+		- Defence in depth
+		- Least Privilege
+		- Data-centric Protection
+		- Zero Trust Architecture
+		- IAM
+			- Authentication & Authorization
+			- RBAC
+			- MFA
+			- Permission Management & Monitoring
+		- Data Protection
+			- Encryption at transit
+			- Encryption at rest
+			- Key Management
+			- Backup & Recovery
+
+- Models
+	- Cloud Service Models
+		- IaaS
+		- PaaS
+		- SaaS
+	- Cloud Deployment Models
+		- Public
+		- Private
+		- Hybrid
+		- Community
+		- Multi-cloud
+- Advanced Cloud Concepts
