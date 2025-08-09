@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "3dfc8e309507f311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a90ba3c8c9e62b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,6 +187,8 @@
   "active": "88f05c85aa66a1af",
   "lastOpenFiles": [
     "Productivity.md",
-    "Learning System.md"
+    "Learning System.md",
+    "Dump.md",
+    "Habits.md"
   ]
 }
