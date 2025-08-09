@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning System.md",
+                "file": "Train.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning System"
+              "title": "Train"
             }
           }
         ]
@@ -187,8 +187,9 @@
   "active": "88f05c85aa66a1af",
   "lastOpenFiles": [
     "Productivity.md",
+    "Train.md",
     "Learning System.md",
-    "Dump.md",
-    "Habits.md"
+    "Habits.md",
+    "Dump.md"
   ]
 }

@@ -1,8 +1,10 @@
+*Think in systems not techniques*
 - Track
 - Front-Loading
 - Prioritisation
 - Flow
 
-[[Dump]]
+
 [[Habits]]
 [[Learning System]]
+[[Train]]
